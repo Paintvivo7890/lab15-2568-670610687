@@ -21,7 +21,6 @@ export let students: Student[] = [
       courses: [269101, 261497]
     },
   ]
-
   export let courses: Course[] = [
     {
       courseId: 261207,
